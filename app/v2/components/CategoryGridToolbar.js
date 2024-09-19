@@ -5,6 +5,7 @@ import {
   GridToolbarColumnsButton,
   GridToolbarExport
 } from "@mui/x-data-grid";
+import { Box } from "@mui/material";  // Add this import for the Box component
 
 export default function CustomToolbar() {
   return (
